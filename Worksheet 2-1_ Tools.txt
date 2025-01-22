@@ -1,0 +1,148 @@
+﻿Worksheet 2-1: Tools
+Instructions: 
+1. Download or make a copy of this assignment.
+2. In groups of up to 4 students, complete the work below in class.  If you do not have time to complete the activity in class, you may finish it at home (individually or in groups).
+3. You may collaborate within your group to complete the assignment but you must work on each question together and come up with a consensus response.  You may not collaborate between groups and the work you submit must be your own.
+4. Turn in your solution as a PDF on Canvas.  Each group member is responsible for turning in their own copy of the assignment on time.
+Rubric:
+This activity is worth 4 points.  Full points will be awarded for complete work, 2 points will be awarded for incomplete or clearly wrong work, and 0 for substantially incomplete or missing work.
+Team:
+Divide the roles below between students who participated in this activity.  As you complete these activities throughout the semester, please rotate roles.
+
+
+Role
+	Name
+	Manager: Start quickly, remain focused, keep track of time, ensure everyone participates and all voices are heard, assign duties, etc.
+	<insert name>
+	Reflector: Observe how the team is working, reflect, and give suggestions during the work on how to improve performance. In the end, record what the team learned, what went well, and what could be improved.
+	<insert name>
+	Recorder: Create a copy of this document and share it with the team. Although everyone can write, the recorder should ensure the quality and completeness of the answers.
+	<insert name>
+	Presenter: Communicate team questions and clarifications with the instructor or other teams. Present the answers to the whole class, as requested. Be ready to explain the reasoning for each answer.
+	<insert name>
+	Work:
+Stack Overflow runs an annual survey, answered by thousands of developers. Check the results on the most popular technologies in the last edition of the survey:
+
+
+★ What are the top-5 integrated development environments (IDEs)?
+
+
+<insert response>
+
+
+★ In the list above, you can find lightweight and heavyweight IDEs. Lightweight IDEs are basically text editors enhanced with features for writing code (e.g., highlighting, completion, compiling, etc.) while heavyweight IDEs offer a more complete set of features, which may include tools to simplify the construction of graphical user interfaces, integration with database systems, version control systems, and deployment environments, tools for team collaboration, class and object browsers, etc.
+
+
+How would you classify the list above in these two categories?
+
+
+* Lightweight IDEs: <insert response>
+* Heavyweight IDEs: <insert response>
+
+
+Create a new repository on GitHub entitled cs386-a1 (only one to the group) and add your teammates as collaborators (you can add them in settings). If the teammate does not have a GitHub account, help them to create one.
+
+
+★ Imagine that your team is developing software for a self-driving car. Each teammate should create at least one issue in the repository using their accounts. As a group, create some issues that read like new feature requests and others that read like bug fix requests (at least 2 each, be creative, we should be able to infer from the title whether the issue is a feature or a bug). Paste here a screenshot of the issue tracker showing the list of issues.
+
+
+<insert response>
+
+
+★ Developers discuss issues before they are developed. Each teammate should enter one of the issues created by a colleague and add a comment. Paste here a screenshot of the issue tracker showing the list of issues (it should now show the number of comments that each issue has).    
+
+
+<insert response>
+
+
+★ Labels can help organize the list of issues, which can grow substantially. Each teammate should add the label "bug" or "enhancement" to their issues (it can be done on the right column of the issue). Paste here a screenshot of the issue tracker showing the list of issues (it should now show the labels).  
+
+
+<insert response>
+
+
+★ A good practice is labeling issues with the part of the system that is affected. Create new labels with possible components to the system (e.g., computer vision, decision-making, actuator, UI, etc.). Each teammate should add some of these labels to the issues (each issue can have more than one label). Paste here a screenshot of the issue tracker showing the list of issues (it should now show the new labels).   
+
+
+<insert response>
+
+
+★ Projects organize the issues based on milestones. Create two milestones named "Release 1.0" and "Release 2.0". Each teammate should add their issues to one of these milestones. Paste here a screenshot of the issue tracker showing the list of issues (it should now show the issues liked to milestones).   
+
+
+<insert response>
+
+
+★ As you close issues, GitHub keeps track of the progress toward a Milestone. One of the teammates should close one of the issues associated with Release 1.0. Paste here a screenshot of this issue showing that it is closed and that the progress bar of the milestone had been updated.
+
+
+<insert response>
+
+
+★ Let's now attribute the developers responsible for the issue—the assignees. Each teammate should assign their open issues to a colleague. You can create more issues if needed. Paste here a screenshot of the issue tracker showing the list of issues (it should now show the assignees).
+
+
+<insert response>
+
+
+★ Sometimes, you may want the opinion of a teammate about the issue you are working on. You can mention a teammate using @ in a comment and this person will be notified. Each teammate should ask the opinion of a developer about what should be done (preferably mention someone that was not the creator nor the assignee of the issue). Paste here a screenshot showing the mention in one of the issues (one example is enough).
+
+
+<insert response>
+
+
+★ Often times issues are interrelated and you want to connect them. Each teammate should refer to another issue in a comment using # followed by the issue number (e.g., "I think the problem started in #45"). When you do this, GitHub will create an event in the corresponding issue informing it was referenced in your issue. Paste here a screenshot showing an example of an issue referencing another one.
+
+
+<insert response>
+
+
+★ Use the search bar to find all issues that were assigned to one of your teammates and are closed. Paste here a screenshot showing the search and its results.
+
+
+<insert response>
+
+
+★ Finally, let's see how a real project uses the issue tracker. Let's explore the issues from the JQuery project (a popular JavaScript library): https://github.com/jquery/jquery Can you find at least one example of the use of the following features? Add the issue number in which you could find the example.
+
+
+* An open issue: <insert response>
+* A closed issue: <insert response>
+* An issue with comments: <insert response>
+* What are the comments about? <insert response>
+* An issue with a label: <insert response>
+* An issue assigned to a milestone: <insert response>
+* An issue assigned to a developer: <insert response>
+* An issue with a mention and/or reference: <insert response>
+
+
+Let's create a Readme file for your project. GitHub adopts a markdown notation (https://guides.github.com/features/mastering-markdown/). Create a new file entitled readme.md in your repository (Code tab on GitHub) and write markdown code to produce an output similar to the following figure according to the provided instructions:
+
+
+* MyCarDriver should be a first-level heading
+* Installation and Developers should be second-level headings
+* The term pip should be linked to https://pypi.org/project/pip/
+* The pip logo should come from this URL: https://pypi.org/static/images/logo-large.9f732b5f.svg
+* Add the name of the members of your group in the list of the developers.
+* The name of the manager should be in bold.
+* The name of the recorder should in italics.
+
+
+★ Put here the markdown code you created:
+
+
+<insert response>
+
+
+★ Add here a screenshot of the rendered readme in your repository:
+
+
+<insert response>
+
+
+
+
+★ Reflection (to be completed by the Reflector): What did the team learn from this activity?
+
+
+<insert response>
