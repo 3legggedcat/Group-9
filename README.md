@@ -8,5 +8,5 @@ To install the necessary dependencies for this project, you can use [pip](https:
 ## Developers
 
 - **Luke Shahan** (Manager)
-- *Franz Miskhe* (Recorder)
+- *Franz Mischke* (Recorder)
 - Anthony Bik
